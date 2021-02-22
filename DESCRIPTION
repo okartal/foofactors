@@ -17,3 +17,5 @@ Suggests:
     testthat
 Imports: 
     forcats
+URL: https://github.com/okartal/foofactors
+BugReports: https://github.com/okartal/foofactors/issues
